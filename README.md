@@ -1,1 +1,1 @@
-Natural/Green witch, Kitchen witch
+Natural Witch, Green witch, Kitchen witch
