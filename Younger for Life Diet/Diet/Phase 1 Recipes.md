@@ -9,6 +9,8 @@ Nguyên liệu:
 + 2 teaspoons almond butter (2 muỗng cà phê bơ hạnh nhân)
 
 Cho tất cả vào máy xay sinh tố. Nếu sinh tố quá đặc, có thể thêm nước lạnh hoặc đá viên.
+
+![Peachy Green Smoothie](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_j-bzMxID-SdQHcBnKT-yQ9ksK8cnOe6jAg&s)
  
 ### Blueberry Bliss Morning Smoothie (Sinh Tố Việt Quất)
 Nguyên liệu:
@@ -20,6 +22,8 @@ Nguyên liệu:
 + 2 teaspoons almond butter (2 muỗng cà phê bơ hạnh nhân)
 
 Cho tất cả vào máy xay sinh tố. Nếu sinh tố quá đặc, có thể thêm nước lạnh hoặc đá viên.
+
+![Bluebery Smoothie](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx80h14gbyvkaRHtmRJfQWiUL5PO9zJww-3g&s)
 
 # Lunch
 
@@ -38,6 +42,8 @@ Cho tất cả vào máy xay sinh tố. Nếu sinh tố quá đặc, có thể t
 3. Chia đều rau củ vào 6 khuôn bánh muffin đã được phết dầu và để sang một bên.
 4. Đánh tan trứng, muối, và nước thật đều, sau đó đổ hỗn hợp trứng lên rau củ, chia đều (khoảng ¼ cốc cho mỗi khuôn muffin). Rắc thêm chút muối và tiêu.
 5. Nướng trong 20 đến 25 phút hoặc cho đến khi chín hoàn toàn và phần trung tâm bắt đầu chuyển sang màu nâu. Để nguội vài phút trước khi lấy ra khỏi khuôn bánh muffin, sau đó dùng khi còn ấm.
+
+![Muffin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0mgoyJaRv7HPZp0C9HV6sVSo22Whg56k-Q&s)
 
 ### Black Bean and Sweet Potato Chili (with optional grass-fed ground beef)
 + 1 tablespoon avocado or olive oil (1 muỗng canh dầu quả bơ hoặc dầu ô liu)
@@ -64,5 +70,7 @@ Cho tất cả vào máy xay sinh tố. Nếu sinh tố quá đặc, có thể t
 4. Thêm khoai lang và khuấy đều, nấu thêm khoảng một phút. Sau đó, thêm đậu đen, cà chua, nước dùng (stock), và ½ muỗng cà phê muối biển.
 5. Đun sôi và giảm nhiệt độ xuống mức liu riu, mở nắp, hầm trong 15 đến 20 phút hoặc cho đến khi khoai lang mềm (có thể dễ dàng xiên bằng nĩa).
 6. Thêm cải xoăn/cải cầu vồng và khuấy vào hỗn hợp, tiếp tục hầm liu riu thêm 2 đến 3 phút nữa hoặc cho đến khi rau cải chuyển sang màu xanh tươi sáng và mềm. Tắt bếp và thêm nước cốt chanh. Điều chỉnh muối cho vừa ăn, thêm một chút tiêu, và trang trí với hành tây đỏ thái nhỏ, ngò rí, và bơ, thêm một lát chanh nếu muốn.
+
+![Chili](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmciKcL9ZVS-ajL5N61l9L2JI7LAFjdkOHtg&s)
 
 
