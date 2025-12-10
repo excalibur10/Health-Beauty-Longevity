@@ -46,6 +46,7 @@ Cho tất cả vào máy xay sinh tố. Nếu sinh tố quá đặc, có thể t
 ![Muffin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0mgoyJaRv7HPZp0C9HV6sVSo22Whg56k-Q&s)
 
 ### Black Bean and Sweet Potato Chili (with optional grass-fed ground beef)
+Makes 2 or 3 servings <br>
 + 1 tablespoon avocado or olive oil (1 muỗng canh dầu quả bơ hoặc dầu ô liu)
 + ½ small red onion, chopped (½ củ hành tây đỏ nhỏ, đã cắt nhỏ)
 + ½ teaspoon garlic powder (½ muỗng cà phê bột tỏi)
@@ -73,4 +74,25 @@ Cho tất cả vào máy xay sinh tố. Nếu sinh tố quá đặc, có thể t
 
 ![Chili](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmciKcL9ZVS-ajL5N61l9L2JI7LAFjdkOHtg&s)
 
+### Hearty Miso and Vegetable Soup (with Optional Baked Chicken)
+Makes 2 or 3 servings <br>
++ 1 tablespoon olive or avocado oil (1 muỗng canh dầu ô liu hoặc dầu quả bơ)
++ ½ yellow onion, cut into half-moons (½ củ hành tây vàng, cắt lát hình nửa mặt trăng)
++ 1 large carrot, peeled and cut into matchsticks (1 củ cà rốt lớn, gọt vỏ và cắt thành que/sợi)
++ 5 to 10 shitake mushrooms,sliced or any other mushroom sliced to equal 2 cups (5 đến 10 nấm hương, thái lát (hoặc bất kỳ loại nấm nào khác, thái lát để được 2 cốc)
++  3 cups green kale, chopped (3 cốc cải xoăn xanh, đã cắt nhỏ)
++ 4 cups chicken or vegetable stock (4 cốc nước dùng gà hoặc nước dùng rau củ)
++ 2 tablespoons miso (chickpea or mellow white) - 2 muỗng canh tương Miso (làm từ đậu gà hoặc loại trắng dịu)
++ Black pepper and salt to taste (Tiêu đen và muối cho vừa ăn)
++ Sliced green onions (optional) (Hành lá thái lát (tùy chọn))
 
+1. Làm nóng dầu ô liu (hoặc dầu quả bơ) trong một nồi súp lớn trên lửa vừa.
+2. Thêm hành tây và một nhúm muối, khuấy đều để hành tây được phủ dầu. Để hành tây nấu trên lửa vừa trong 10 đến 15 phút, thỉnh thoảng khuấy đều.
+3. Thêm cà rốt và nấm vào, xào thêm 5 phút.
+4. Thêm nước dùng (stock) vào và đun nhỏ lửa (simmer) trong 10 phút. Tắt bếp và thêm cải xoăn (kale). Đậy nắp và để yên trong 3 phút.
+5. Múc ½ cốc nước dùng từ nồi ra, cho vào một cái bát cùng với tương Miso. Đánh tan để tương Miso hòa quyện hoàn toàn thành một chất lỏng mịn, sau đó đổ hỗn hợp này trở lại nồi và khuấy đều.
+6. Múc ra bát và dùng kèm với hành lá tươi thái lát, nêm thêm muối và tiêu nếu cần.
+
+=> Lưu ý: Nếu bạn sử dụng nước dùng ít muối hoặc không muối, bạn có thể thêm một hoặc hai muỗng cà phê tương Miso hoặc muối biển để điều chỉnh hương vị.
+
+![Míso soup](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyw-9buFKbv-D-LJpQNfuZoEvXA_FW-OKZ7A&s)
