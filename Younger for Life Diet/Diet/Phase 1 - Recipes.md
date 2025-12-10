@@ -17,7 +17,7 @@ Nguyên liệu:
 + 1 scoop protein powder (1 muỗng bột protein)
 + 1 scoop hydrolyzed collagen or collagen peptides (1 muỗng collagen thủy phân hoặc collagen peptides)
 + 12 oz unsweetened coconut milk or almond milk (355 ml sữa dừa không đường hoặc sữa hạnh nhân)
-+ ¾ cup frozen peaches (¾ cốc việt quất đông lạnh)
++ ¾ cup frozen blueberries (¾ cốc việt quất đông lạnh)
 + 1 handful chopped kale, chard, or spinach (1 nắm cải xoăn, cải cầu vồng, hoặc rau chân vịt đã cắt nhỏ)
 + 2 teaspoons almond butter (2 muỗng cà phê bơ hạnh nhân)
 
