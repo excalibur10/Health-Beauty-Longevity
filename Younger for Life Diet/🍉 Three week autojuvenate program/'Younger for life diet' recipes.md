@@ -1,4 +1,4 @@
-# Breakfast Smoothies
+# Breakfast Smoothies 🥑
 ### Peachy Green Smoothie (Sinh Tố Xanh Vị Đào) -> bổ sung protein & collagen
 Nguyên liệu:
 + 1 scoop protein powder (1 muỗng bột protein)
@@ -25,7 +25,7 @@ Cho tất cả vào máy xay sinh tố. Nếu sinh tố quá đặc, có thể t
 
 ![Bluebery Smoothie](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx80h14gbyvkaRHtmRJfQWiUL5PO9zJww-3g&s)
 
-# Lunch
+# Lunch 🫐
 
 ### Veggie Frittata Muffins
 + 1 cup broccoli florets, chopped (1 cốc súp lơ xanh đã cắt nhỏ)
