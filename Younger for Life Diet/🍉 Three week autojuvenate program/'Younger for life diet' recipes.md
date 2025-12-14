@@ -28,17 +28,17 @@ Cho tất cả vào máy xay sinh tố. Nếu sinh tố quá đặc, có thể t
 # Lunch 🫐
 
 ### Veggie Frittata Muffins
-+ 1 cup broccoli florets, chopped (1 cốc súp lơ xanh đã cắt nhỏ)
-+ ½ cup red pepper, chopped (½ cốc ớt chuông đỏ đã cắt nhỏ)
-+ ½ small red onion, chopped (½ củ hành tây đỏ nhỏ đã cắt nhỏ)
-+ 1 tablespoon grass-fed butter, olive oil, or avocado oil (1 muỗng canh bơ từ bò ăn cỏ, dầu ô liu, hoặc dầu quả bơ)
++ 1 cup broccoli florets, chopped (1 cốc súp lơ xanh cắt nhỏ)
++ ½ cup red pepper, chopped (½ cốc ớt chuông đỏ cắt nhỏ)
++ ½ small red onion, chopped (½ củ hành tím cắt nhỏ)
++ 1 tablespoon grass-fed butter, olive oil, or avocado oil (1 muỗng canh butter từ bò ăn cỏ, dầu ô liu, hoặc dầu quả bơ)
 + Salt and pepper to taste (Muối và tiêu cho vừa ăn)
 + 5 eggs (5 quả trứng)
 + 2 tablespoons water (2 muỗng canh nước)
 + ½ teaspoon salt (½ muỗng cà phê muối)
 
-1. Làm nóng lò nướng ở nhiệt độ $350. Phết nhẹ dầu ăn tùy chọn vào 6 khuôn bánh muffin.
-2. Làm nóng một chảo lớn trên lửa vừa. Thêm bơ hoặc dầu ăn vào. Cho hành tây vào và nấu cho đến khi mềm và trong. Thêm ớt chuông đỏ và bông súp lơ đã cắt nhỏ vào, khuấy liên tục, nấu trong 3 đến 5 phút hoặc cho đến khi chúng bắt đầu mềm, sau đó nêm thêm một chút muối và tiêu.
+1. Làm nóng lò nướng ở nhiệt độ 350 độ. Phết nhẹ dầu ăn tùy chọn vào 6 khuôn bánh muffin.
+2. Làm nóng một chảo lớn trên lửa vừa. Thêm bơ hoặc dầu ăn vào. Cho hành vào và nấu cho đến khi mềm và trong. Thêm ớt chuông đỏ và bông súp lơ đã cắt nhỏ vào, khuấy liên tục, nấu trong 3 đến 5 phút hoặc cho đến khi chúng bắt đầu mềm, sau đó nêm thêm một chút muối và tiêu.
 3. Chia đều rau củ vào 6 khuôn bánh muffin đã được phết dầu và để sang một bên.
 4. Đánh tan trứng, muối, và nước thật đều, sau đó đổ hỗn hợp trứng lên rau củ, chia đều (khoảng ¼ cốc cho mỗi khuôn muffin). Rắc thêm chút muối và tiêu.
 5. Nướng trong 20 đến 25 phút hoặc cho đến khi chín hoàn toàn và phần trung tâm bắt đầu chuyển sang màu nâu. Để nguội vài phút trước khi lấy ra khỏi khuôn bánh muffin, sau đó dùng khi còn ấm.
