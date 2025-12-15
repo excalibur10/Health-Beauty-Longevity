@@ -25,6 +25,8 @@
 + Mixed Berry Cobbler with Gluten-Free Oat/Almond Topping
 + Gluten-Free Lemon Blueberry Muffins
 
+[6. Extra recipes](#extra-recipe)
+
 
 ______________
 
@@ -207,4 +209,35 @@ Nguyên liệu: 6-8 cái
 7. Bảo quản trong tủ lạnh và có thể dùng tối đa trong một tuần.
 
 ![socola](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-gSSQKwBbbfexg5Pyv-qnAT2q8ihzTyzPg&s)
+
+# 6. Extra recipes:
+
+### Chicken and Vegetable Curry
+Nguyên liệu: 
++ 2 tablespoons avocado oil: 2 muỗng canh dầu bơ
++ 1 medium yellow onion, chopped: 1 củ hành tây cỡ vừa, thái hạt lựu
++ 1-pound boneless skinless chicken thighs or breasts or a combo of both, cut into 1-inch cubes: 1 pound (khoảng 450 gram) thịt đùi hoặc ức gà không xương, không da, hoặc kết hợp cả hai, cắt thành khối vuông 1 inch (khoảng 2.5 cm)
++ 1 teaspoon sea salt: 1 muỗng cà phê muối biển
++ 2 teaspoons curry powder: 2 muỗng cà phê bột cà ri
++ ½ teaspoon garlic powder: ½ muỗng cà phê bột tỏi
++ 2-3 teaspoons fresh grated ginger: 2-3 muỗng cà phê gừng tươi bào nhỏ
++ 1 medium sweet potato peeled and cubed: 1 củ khoai lang cỡ vừa, gọt vỏ và cắt khối vuông
++ 1 medium carrot sliced: 1 củ cà rốt cỡ vừa, thái lát
++ 1 cup coconut milk: 1 chén nước cốt dừa
++ 2 tablespoons coconut aminos or tamari: 2 muỗng canh nước tương dừa (coconut aminos) hoặc sốt tamari
++ 2 cups broccoli florets: 2 chén bông cải xanh (súp lơ xanh) thái miếng vừa
++ 3 cups chopped kale: 3 chén cải xoăn (kale) đã thái nhỏ
++ Juice of ½ lime: Nước cốt của ½ quả chanh xanh
++ Chopped cilantro leaves for serving: Lá ngò rí (rau mùi) thái nhỏ, dùng để trang trí khi dùng
+
+1. Làm nóng dầu bơ trong một chiếc chảo lớn ở lửa vừa.
+2. Cho hành tây và một nhúm muối vào xào cho đến khi mềm, sau đó thêm thịt gà, muối, bột cà ri, bột tỏi và gừng tươi vào. Nấu, thỉnh thoảng khuấy đều, cho đến khi thịt gà chín hẳn (khoảng 5-7 phút).
+3. Thêm khoai lang và cà rốt vào và đảo đều cho đến khi mọi thứ được phủ một lớp gia vị. Sau đó, thêm nước cốt dừa và nước tương dừa (coconut aminos) hoặc tamari vào.
+4. Đun sôi nhẹ (simmer) và nấu không đậy nắp cho đến khi khoai lang và cà rốt mềm, sau đó cho bông cải xanh và cải xoăn (greens) vào.
+5. Đậy nắp chảo lại và nấu thêm khoảng 5-7 phút cho đến khi bông cải xanh có màu xanh sáng và chín mềm, thỉnh thoảng khuấy đều.
+6. Mở nắp và khuấy nước cốt của ½ quả chanh xanh vào. Nếm thử và thêm chanh tùy theo khẩu vị của bạn.
+7. Múc ra đĩa và dùng, trang trí phía trên với ngò rí tươi thái nhỏ.
+
+![curry](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRssF6OjhAZvQ-GDMAA35d-hmlADgyTlZhSmg&s)
+
 
