@@ -1,5 +1,6 @@
-[1. Breakfast](#breakfast-smoothie)
-[2. Lunch](#lunch)
+[1. Breakfast](#breakfast-smoothie) <br>
+[2. Lunch](#lunch)<br>
+[3. Dinner](#dinner)<br>
 
 ______________
 
@@ -104,7 +105,7 @@ Nguyên liệu: 2-3 người <br>
 
 ![Míso soup](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyw-9buFKbv-D-LJpQNfuZoEvXA_FW-OKZ7A&s)
 
-# 3. Dinner 🥕
+# 3. Dinner 🥕 <a name="dinner"></a>
 
 ### Stir-fried brown rice with veggies
 Nguyên liệu: 2-3 người
