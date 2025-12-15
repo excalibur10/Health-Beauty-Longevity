@@ -3,13 +3,27 @@
 + [Blueberry Bliss Morning Smoothie](#blueberries-smoothie) 👍
 
 [2. Lunch](#lunch)<br>
-
++ Veggie Frittata Muffins
++ [Black Bean and Sweet Potato Chili](#black-bean-sweet-potato-chilli) 👍
++ [Hearty Miso and Vegetable Soup](#miso-soup) 👍
++ Oven-Roasted Vegetable Pasta (with Optional Baked Chicken)
++ [Lentil Vegetable Stew](#lentil-vegetable) 👍
 
 [3. Dinner](#dinner)<br>
++ [Stir-Fried Brown Rice with Veggies](#com-chien-rau-cu) 👍
++ Grass-Fed Beef or Tempeh Tacos
++ Shepherd’s Pie with Potato Crust
++ Oven-Baked Salmon with Red Onions, Potatoes, and Crispy Kale
++ Sheet Pan Chicken with Roasted Vegetables and Kale
 
 [4. Snack](#snack)<br>
++ [Golden Milk Chia Pudding](#chia-pudding) 👍
++ Cinnamon-Spiced Overnight Oats with Blueberries
 
 [5. Dessert](#dessert)
++ [Dark Chocolate and Coconut Truffles with Orange Zest](#chocolate-orange) 👍
++ Mixed Berry Cobbler with Gluten-Free Oat/Almond Topping
++ Gluten-Free Lemon Blueberry Muffins
 
 
 ______________
@@ -63,7 +77,7 @@ Nguyên liệu: 6 muffin
 
 ![Muffin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0mgoyJaRv7HPZp0C9HV6sVSo22Whg56k-Q&s)
 
-### Black Bean and Sweet Potato Chili (with optional grass-fed ground beef)
+### Black Bean and Sweet Potato Chili (with optional grass-fed ground beef) <a name="black-bean-sweet-potato-chilli"></a>
 Nguyên liệu: 2-3 người
 + 1 tablespoon avocado or olive oil (1 muỗng canh dầu quả bơ hoặc dầu ô liu)
 + ½ small red onion, chopped (½ củ hành tây đỏ nhỏ, đã cắt nhỏ)
@@ -92,7 +106,7 @@ Nguyên liệu: 2-3 người
 
 ![Chili](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmciKcL9ZVS-ajL5N61l9L2JI7LAFjdkOHtg&s)
 
-### Hearty Miso and Vegetable Soup (with Optional Baked Chicken)
+### Hearty Miso and Vegetable Soup (with Optional Baked Chicken) <a name="miso-soup"></a>
 Nguyên liệu: 2-3 người <br>
 + 1 tablespoon olive or avocado oil (1 muỗng canh dầu ô liu hoặc dầu quả bơ)
 + ½ yellow onion, cut into half-moons (½ củ hành tây vàng, cắt lát hình nửa mặt trăng)
@@ -117,7 +131,7 @@ Nguyên liệu: 2-3 người <br>
 
 # 3. Dinner 🥕 <a name="dinner"></a>
 
-### Stir-fried brown rice with veggies
+### Stir-fried brown rice with veggies <a name="com-chien-rau-cu"></a>
 Nguyên liệu: 2-3 người
 + 1 cup of cooked brown rice (1 chén cơm gạo lứt đã nấu chín)
 + 1 egg, whisked (1 quả trứng, đánh tan)
@@ -145,9 +159,9 @@ Nguyên liệu: 2-3 người
 
 ![brown rice](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgoS2O6RQQc42oHQ2lqHCNxXrEZQW_o6LvSg&s)
 
-# 4. Snack 
+# 4. Snack <a name="snack"></a> 
 
-### Golden Milk Chia Pudding <a name="snack"></a>
+### Golden Milk Chia Pudding <a name="chia-pudding"></a> 
 Nguyên liệu: 2-3 người
 + 1 ¾ cups (1 can) unsweetened coconut milk: 1 chén (1 lon) nước cốt dừa không đường
 + ¼ teaspoon sea salt: ¼ muỗng cà phê muối biển
@@ -169,9 +183,9 @@ Bảo quản: Giữ trong tủ lạnh và có thể dùng tối đa trong 4 ngà
 
 ![chia pudding](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh0DSv8MesLwGhH77b4vdma0mfflUdySIJ8g&s)
 
-# 5. Dessert
+# 5. Dessert <a name="dessert"></a> 
 
-### Dark Chocolate and Coconut Truffles with Orange Zest <a name="dessert"></a>
+### Dark Chocolate and Coconut Truffles with Orange Zest <a name="chocolate-orange"></a>
 Nguyên liệu: 6-8 cái
 Đây là bản dịch các nguyên liệu sang tiếng Việt cho món Kẹo Truffle Sô-cô-la Đen và Dừa (Rắc) Vỏ Cam:
 
