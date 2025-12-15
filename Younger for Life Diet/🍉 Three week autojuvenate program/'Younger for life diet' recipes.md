@@ -240,4 +240,35 @@ Nguyên liệu:
 
 ![curry](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRssF6OjhAZvQ-GDMAA35d-hmlADgyTlZhSmg&s)
 
+### Rainbow Bowl with Garlic Chicken
+Nguyên liệu cho Bát Salad:
++ 2 tablespoons avocado oil: 2 muỗng canh dầu bơ
++ 2 cups cooked brown rice or quinoa (optional): 2 chén cơm gạo lứt hoặc diêm mạch (quinoa) đã nấu chín (tùy chọn)
++ 1-2 tablespoon olive oil: 1-2 muỗng canh dầu ô liu
++ 2 garlic cloves, chopped: 2 tép tỏi, băm nhỏ
++ 1 lb. boneless skinless chicken breasts cut into 1-inch cubes: 1 pound (khoảng 450 gram) ức gà không xương, không da, cắt thành khối vuông 1 inch (khoảng 2.5 cm)
++ ½ teaspoon sea salt: ½ muỗng cà phê muối biển
++ ½ teaspoon garlic powder: ½ muỗng cà phê bột tỏi
++ Pinch of pepper: Một nhúm tiêu
++ 3 cups shredded red or green cabbage: 3 chén bắp cải đỏ hoặc bắp cải xanh đã thái sợi
++ 2 cups thinly sliced kale: 2 chén cải xoăn (kale) thái lát mỏng1 large carrot, shredded: 1 củ cà rốt lớn, bào sợi
++ 2 green onions sliced thin (green and white part): 2 cây hành lá thái lát mỏng (cả phần trắng và phần xanh)
++ 1 cup chopped fresh cilantro: 1 chén ngò rí (rau mùi) tươi thái nhỏ
++ ½ cup chopped fresh basil: ½ chén húng quế tươi thái nhỏ
++ ½ cup chopped fresh mint: ½ chén bạc hà tươi thái nhỏ
++ 1 cup loosely chopped raw unsalted cashews: 1 chén hạt điều thô (chưa rang, không muối), thái nhỏ
++ 1-2 cups edamame beans (optional): 1-2 chén đậu nành Nhật (edamame) (tùy chọn) <br>
+Nguyên liệu cho Nước Sốt:
++ 2 tablespoons tamari or coconut aminos: 2 muỗng canh sốt tamari hoặc nước tương dừa (coconut aminos)
++ 1/4 cup olive oil: ¼ chén dầu ô liu
++ 2 teaspoons maple syrup: 2 muỗng cà phê si-rô phong (maple syrup)
 
+1. Chuẩn bị tất cả nguyên liệu cho bát trước khi bắt đầu công thức (rau củ và thịt gà). Đồng thời, đánh tan các nguyên liệu làm nước sốt và để riêng.
+2. Cho bắp cải thái sợi, cải xoăn, cà rốt bào sợi, hành lá, ngò rí, húng quế, bạc hà, hạt điều và đậu nành Nhật (edamame) vào một cái tô lớn và trộn đều. Trộn với nước sốt và để yên trong khi chuẩn bị thịt gà.
+3. Cho dầu ô liu vào chảo cỡ vừa và đun nóng.
+4. Cho tỏi băm vào dầu nóng và đảo nhanh. Nấu cho đến khi tỏi bắt đầu ngả vàng (hãy cẩn thận không để tỏi bị cháy).
+5. Tiếp theo, cho thịt ức gà thái khối, muối biển và bột tỏi vào và thỉnh thoảng khuấy đều cho đến khi thịt chín hoàn toàn. Thêm một nhúm tiêu vào và đảo đều, sau đó gắp thịt gà ra khỏi chảo và để riêng.
+6. Bây giờ, bắt đầu sắp xếp các bát ăn. Múc cơm gạo lứt hoặc diêm mạch vào đáy bát, sau đó xếp rau củ đã trộn sốt và thịt gà lên trên.
+7. Thêm các loại topping tùy chọn như thêm rau thơm thái nhỏ, hành lá, hoặc hạt điều thái nhỏ.
+
+![rainbow rice bowl](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLqmZ3kymEUfwyTOknaDg7qor23DwggAGi4A&s)
