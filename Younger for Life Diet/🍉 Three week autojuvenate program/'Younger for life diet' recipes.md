@@ -1,6 +1,6 @@
 [1. Breakfast](#breakfast-smoothie) <br>
-+ [Peachy Green Smoothie](#peachy-green-smoothie)
-+ [Blueberry Bliss Morning Smoothie](#blueberries-smoothie)
++ [Peachy Green Smoothie](#peachy-green-smoothie) 👍
++ [Blueberry Bliss Morning Smoothie](#blueberries-smoothie) 👍
 
 [2. Lunch](#lunch)<br>
 
