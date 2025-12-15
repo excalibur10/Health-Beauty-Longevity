@@ -97,3 +97,33 @@ Nguyên liệu: 2-3 người <br>
 => Lưu ý: Nếu bạn sử dụng nước dùng ít muối hoặc không muối, bạn có thể thêm một hoặc hai muỗng cà phê tương Miso hoặc muối biển để điều chỉnh hương vị.
 
 ![Míso soup](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyw-9buFKbv-D-LJpQNfuZoEvXA_FW-OKZ7A&s)
+
+# Dinner 🥕
+
+### Stir-fried brown rice with veggies
+Nguyên liệu: 2-3 người
++ 1 cup of cooked brown rice (1 chén cơm gạo lứt đã nấu chín)
++ 1 egg, whisked (1 quả trứng, đánh tan)
++ 1 tablespoon avocado oil (1 muỗng canh dầu bơ)
++ ½ medium yellow onion, chopped (½ củ hành tây cỡ vừa, thái hạt lựu)
++ 1 teaspoon garlic, minced (1 muỗng cà phê tỏi băm)
++ 2 cups mushrooms, roughly chopped (2 chén nấm, thái miếng lớn)
++ 1 small carrot, chopped into small cubes (1 củ cà rốt nhỏ, thái hạt lựu nhỏ)
++ 1 cup broccoli florets, chopped (1 chén bông cải xanh (súp lơ xanh), thái miếng vừa)
++ 1 teaspoon grated fresh ginger (1 muỗng cà phê gừng tươi bào nhỏ)
++ 3 tablespoons tamari: 3 muỗng canh sốt Tamari (một loại nước tương không chứa hoặc ít gluten)
++ Chopped green onions, cilantro, toasted sesame oil (optional): Hành lá thái nhỏ, ngò rí (rau mùi), dầu mè rang (tùy chọn)
++ 1 cup cooked pastured chicken or tempeh, chopped (optional): 1 chén thịt gà chăn thả hoặc tempeh đã nấu chín, thái nhỏ (tùy chọn)
+
+1. Làm nóng dầu bơ trong một chiếc chảo lớn (tốt nhất là chảo chống dính) ở lửa vừa.
+2. Đổ trứng đã đánh tan vào và nấu chín, sau đó dùng muỗng xắn trứng đã chín thành những miếng nhỏ. Gắp trứng ra để riêng trong một cái tô, giữ cho chảo sạch.
+3. Cho thêm một chút dầu vào chảo cùng với hành tây đã thái hạt lựu. Xào cho đến khi hành tây mềm và trong.
+4. Thêm tỏi, nấm và một nhúm muối vào, trộn đều. Xào trong khoảng 3 đến 5 phút cho đến khi nấm bắt đầu mềm.
+5. Thêm cà rốt và bông cải xanh vào và nấu cho đến khi mềm, khoảng 5 đến 7 phút.
+6. Gạt rau củ sang một bên và cho cơm đã nấu vào chảo, cùng với một chút dầu nữa.
+7. Thêm gừng và sốt tamari lên trên cơm, sau đó trộn tất cả các nguyên liệu cùng với rau củ lại với nhau.
+8. Tăng lửa lên một chút thành lửa vừa-cao và chiên/rang cơm và rau củ cho đến khi cơm bắt đầu hơi xém (ngả màu nâu) một chút, sau đó cho trứng vào và đảo thêm khoảng một phút nữa.
+9. Lúc này, bạn có thể thêm thịt gà hoặc tempeh đã nấu chín vào và đảo để trộn đều. Nấu thêm vài phút cho đến khi tất cả nóng đều.
+10. Tắt bếp và bày ra đĩa, trang trí phía trên với hành lá hoặc ngò rí thái nhỏ. Nếu muốn tăng thêm hương vị, bạn có thể rưới một chút dầu mè rang lên trên.
+
+![brown rice](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgoS2O6RQQc42oHQ2lqHCNxXrEZQW_o6LvSg&s)
