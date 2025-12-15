@@ -1,4 +1,9 @@
-# Breakfast Smoothies 🥑
+<a name="breakfast">1. Breakfast: </a>
+
+______________
+
+
+# 1. Breakfast Smoothies 🥑 [link](#breakfast)
 ### Peachy Green Smoothie (Sinh Tố Xanh Vị Đào) -> bổ sung protein & collagen
 Nguyên liệu: (1 người)
 + 1 scoop protein powder (1 muỗng bột protein)
@@ -25,7 +30,7 @@ Cho tất cả vào máy xay sinh tố. Nếu sinh tố quá đặc, có thể t
 
 ![Bluebery Smoothie](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx80h14gbyvkaRHtmRJfQWiUL5PO9zJww-3g&s)
 
-# Lunch 🫐
+# 2. Lunch 🫐
 
 ### Veggie Frittata Muffins
 Nguyên liệu: 6 muffin
@@ -98,7 +103,7 @@ Nguyên liệu: 2-3 người <br>
 
 ![Míso soup](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyw-9buFKbv-D-LJpQNfuZoEvXA_FW-OKZ7A&s)
 
-# Dinner 🥕
+# 3. Dinner 🥕
 
 ### Stir-fried brown rice with veggies
 Nguyên liệu: 2-3 người
