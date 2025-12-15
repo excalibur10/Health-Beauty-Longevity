@@ -2,6 +2,7 @@
 [2. Lunch](#lunch)<br>
 [3. Dinner](#dinner)<br>
 [4. Snack](#snack)<br>
+[5. Dessert](#dessert) <br>
 
 ______________
 
@@ -159,3 +160,29 @@ Nguyên liệu: 2-3 người
 Bảo quản: Giữ trong tủ lạnh và có thể dùng tối đa trong 4 ngày.
 
 ![chia pudding](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh0DSv8MesLwGhH77b4vdma0mfflUdySIJ8g&s)
+
+# 5. Dessert
+
+### Dark Chocolate and Coconut Truffles with Orange Zest
+Nguyên liệu: 6-8 cái
+Đây là bản dịch các nguyên liệu sang tiếng Việt cho món Kẹo Truffle Sô-cô-la Đen và Dừa (Rắc) Vỏ Cam:
+
+🇻🇳 Nguyên liệu (Ingredients)
++ ¼ cup shredded coconut, plus ½ cup, separated: ¼ chén dừa nạo sợi, cộng thêm ½ chén nữa, chia ra thành hai phần
++ ½ cup plus 1 tablespoon coconut oil: ½ chén cộng thêm 1 muỗng canh dầu dừa
++ 3 tablespoons maple syrup: 3 muỗng canh si-rô phong (maple syrup)
++ ¼ teaspoon vanilla extract: ¼ muỗng cà phê chiết xuất vani
++ ¼ teaspoon sea salt: ¼ muỗng cà phê muối biển
++ 2 teaspoons orange zest: 2 muỗng cà phê vỏ cam bào
++ ½ cup cacao or cocoa powder: ½ chén bột ca cao hoặc bột sô-cô-la
+
+1. Sử dụng máy xay thực phẩm có gắn lưỡi dao hình chữ S (S blade), cho dừa nạo sợi (phần ¼ chén), dầu dừa, si-rô phong, chiết xuất vani, muối biển và vỏ cam bào vào. Xay đến khi các nguyên liệu trộn đều.
+2. Cho bột ca cao/sô-cô-la vào và xay ngắt quãng (pulse) cho đến khi bột hòa quyện hoàn toàn.
+3. Rải phần ½ chén dừa nạo sợi còn lại lên một cái đĩa cỡ vừa.
+4. Dùng muỗng canh để múc hỗn hợp ra và viên thành những viên tròn.
+5. Lăn những viên sô-cô-la qua dừa nạo sợi cho đến khi chúng được phủ đều.
+6. Cho những viên socola vào tủ lạnh trong một giờ rồi thưởng thức.
+7. Bảo quản trong tủ lạnh và có thể dùng tối đa trong một tuần.
+
+![socola](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-gSSQKwBbbfexg5Pyv-qnAT2q8ihzTyzPg&s)
+
