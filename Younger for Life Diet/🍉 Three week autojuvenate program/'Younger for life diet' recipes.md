@@ -1,4 +1,6 @@
 [1. Breakfast](#breakfast-smoothie) <br>
++ [Peachy Green Smoothie](#peachy-green-smoothie)
++ [Blueberry Bliss Morning Smoothie](#blueberries-smoothie)
 [2. Lunch](#lunch)<br>
 [3. Dinner](#dinner)<br>
 [4. Snack](#snack)<br>
@@ -8,7 +10,7 @@ ______________
 
 
 # 1. Breakfast Smoothies <a name="breakfast-smoothie"></a>
-### Peachy Green Smoothie (Sinh Tố Xanh Vị Đào) -> bổ sung protein & collagen
+### Peachy Green Smoothie (Sinh Tố Xanh Vị Đào) -> bổ sung protein & collagen <a name="peachy-green-smoothie"></a>
 Nguyên liệu: (1 người)
 + 1 scoop protein powder (1 muỗng bột protein)
 + 1 scoop hydrolyzed collagen or collagen peptides (1 muỗng collagen thủy phân hoặc collagen peptides)
@@ -21,7 +23,7 @@ Cho tất cả vào máy xay sinh tố. Nếu sinh tố quá đặc, có thể t
 
 ![Peachy Green Smoothie](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_j-bzMxID-SdQHcBnKT-yQ9ksK8cnOe6jAg&s)
  
-### Blueberry Bliss Morning Smoothie (Sinh Tố Việt Quất)
+### Blueberry Bliss Morning Smoothie (Sinh Tố Việt Quất) <a name="blueberries-smoothie"></a>
 Nguyên liệu: 1 người
 + 1 scoop protein powder (1 muỗng bột protein)
 + 1 scoop hydrolyzed collagen or collagen peptides (1 muỗng collagen thủy phân hoặc collagen peptides)
