@@ -1,6 +1,7 @@
 [1. Breakfast](#breakfast-smoothie) <br>
 [2. Lunch](#lunch)<br>
 [3. Dinner](#dinner)<br>
+[4. Snack](#snack)<br>
 
 ______________
 
@@ -134,3 +135,27 @@ Nguyên liệu: 2-3 người
 10. Tắt bếp và bày ra đĩa, trang trí phía trên với hành lá hoặc ngò rí thái nhỏ. Nếu muốn tăng thêm hương vị, bạn có thể rưới một chút dầu mè rang lên trên.
 
 ![brown rice](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgoS2O6RQQc42oHQ2lqHCNxXrEZQW_o6LvSg&s)
+
+# 4. Snack 
+
+### Golden Milk Chia Pudding <a name="snack"></a>
+Nguyên liệu: 2-3 người
++ 1 ¾ cups (1 can) unsweetened coconut milk: 1 chén (1 lon) nước cốt dừa không đường
++ ¼ teaspoon sea salt: ¼ muỗng cà phê muối biển
++ ¼ teaspoon vanilla extract: ¼ muỗng cà phê chiết xuất vani
++ ¼ teaspoon cinnamon: ¼ muỗng cà phê bột quế
++ ½ teaspoon turmeric: ½ muỗng cà phê bột nghệ
++ ½ teaspoon grated fresh ginger: ½ muỗng cà phê gừng tươi bào nhỏ
++ Pinch of black pepper: Một nhúm nhỏ tiêu đen
++ 2 teaspoons honey (more if desired): 2 muỗng cà phê mật ong (thêm nếu muốn ngọt hơn)
++ 1/3 cup chia seeds: $1/3$ chén hạt chia
++ Optional toppings: Toasted coconut flakes, blueberries, strawberries, or raspberries: Dừa sấy (dừa nướng) lát, quả việt quất, dâu tây, hoặc quả mâm xôi
+
+
+1. Cho nước cốt dừa, muối biển, chiết xuất vani, bột quế, bột nghệ, gừng tươi, tiêu đen và mật ong vào máy xay sinh tố và xay nhanh trong thời gian ngắn cho đến khi tất cả các nguyên liệu hòa quyện và mịn.
+2. Đổ hỗn hợp đã xay vào một cái tô cỡ vừa và thêm hạt chia vào. Đánh đều cho đến khi hạt chia được trộn đều.
+3. Để yên ở nhiệt độ phòng trong 45 đến 60 phút, và đánh nhẹ một lần khi đã được nửa thời gian.
+4. Khuấy lại một lần nữa và dùng ngay hoặc dùng kèm với các loại topping tùy chọn bạn thích. <br>
+Bảo quản: Giữ trong tủ lạnh và có thể dùng tối đa trong 4 ngày.
+
+![chia pudding](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh0DSv8MesLwGhH77b4vdma0mfflUdySIJ8g&s)
