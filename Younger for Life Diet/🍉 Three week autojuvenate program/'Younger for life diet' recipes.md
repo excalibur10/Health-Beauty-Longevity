@@ -82,7 +82,7 @@ Nguyên liệu: 6 muffin
 ### Black Bean and Sweet Potato Chili (with optional grass-fed ground beef) <a name="black-bean-sweet-potato-chilli"></a>
 Nguyên liệu: 2-3 người
 + 1 tablespoon avocado or olive oil (1 muỗng canh dầu quả bơ hoặc dầu ô liu)
-+ ½ small red onion, chopped (½ củ hành tây đỏ nhỏ, đã cắt nhỏ)
++ ½ small red onion, chopped (½ củ hành tím, đã cắt nhỏ)
 + ½ teaspoon garlic powder (½ muỗng cà phê bột tỏi)
 + ½ teaspoon paprika (½ muỗng cà phê bột ớt ngọt)
 + ½ tablespoon chili powder (½ muỗng canh bột ớt)
