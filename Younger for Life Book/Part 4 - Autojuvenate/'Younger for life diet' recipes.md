@@ -251,7 +251,8 @@ Nguyên liệu cho Bát Salad:
 + ½ teaspoon garlic powder: ½ muỗng cà phê bột tỏi
 + Pinch of pepper: Một nhúm tiêu
 + 3 cups shredded red or green cabbage: 3 chén bắp cải đỏ hoặc bắp cải xanh đã thái sợi
-+ 2 cups thinly sliced kale: 2 chén cải xoăn (kale) thái lát mỏng1 large carrot, shredded: 1 củ cà rốt lớn, bào sợi
++ 2 cups thinly sliced kale: 2 chén cải xoăn (kale) thái lát mỏng
++ 1 large carrot, shredded: 1 củ cà rốt lớn, bào sợi
 + 2 green onions sliced thin (green and white part): 2 cây hành lá thái lát mỏng (cả phần trắng và phần xanh)
 + 1 cup chopped fresh cilantro: 1 chén ngò rí (rau mùi) tươi thái nhỏ
 + ½ cup chopped fresh basil: ½ chén húng quế tươi thái nhỏ
